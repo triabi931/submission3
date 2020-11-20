@@ -83,6 +83,7 @@ self.addEventListener('push', function(event) {
       primaryKey: 1
     }
   };
+ 
   event.waitUntil(
     self.registration.showNotification('Push Notification', options)
   );
