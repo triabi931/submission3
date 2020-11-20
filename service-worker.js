@@ -18,7 +18,7 @@ else
     { url: '/js/regis.js', revision: '1' },
     { url: '/service-worker.js', revision: '1' },
     { url: '/maskable_icon.png', revision: '1' },
-    { url: '/manifest.json', revision: '1' },
+    { url: 'triabi931/manifest.json', revision: '1' },
 ], {
 ignoreUrlParametersMatching: [/.*/]
 });
