@@ -1,0 +1,3 @@
+web-push generate-vapid-keys --json
+{"publicKey":"BCGA6qicb9R29323Sou0DqI-KSU4MQOKoxoBx4OBgFyQAF2J1jCRRW6oSc1dDy3dxEWlfnLs1tW55ZTuIY5JHU8",
+"privateKey":"TmDvZWHcSVpGzuXPH_dfypgyn2FnlBXK55w6Mt4ruE0"}
