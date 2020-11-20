@@ -3,7 +3,7 @@
     "gcm_sender_id": "489407451958",
     "short_name": "My PWA",
     "description": "Aplikasi PWA submission ketiga saya",
-    "start_url": "triabi931/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#00008B",  
     "theme_color": "#FF8C00", 
